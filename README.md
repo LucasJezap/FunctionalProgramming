@@ -3,3 +3,4 @@ Here's the code from my Functional Programming classes that took place on AGH Un
 <a href="https://github.com/LucasJezap/FunctionalProgramming/tree/master/lab1"> Laboratories 1  
 <a href="https://github.com/LucasJezap/FunctionalProgramming/tree/master/lab2"> Laboratories 2  
 <a href="https://github.com/LucasJezap/FunctionalProgramming/tree/master/lab3"> Laboratories 3  
+<a href="https://github.com/LucasJezap/FunctionalProgramming/tree/master/lab4"> Laboratories 4  
